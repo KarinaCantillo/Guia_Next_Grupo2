@@ -1,4 +1,4 @@
-/ components/productos / ProductoCard.js
+// components/productos / ProductoCard.js
 function ProductoCard({ nombre, precio }) { // Recibe nombre y precio como props
 
     return (
